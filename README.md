@@ -23,8 +23,8 @@ Go to the project directory
   cd my-project
 ```
 
-Start the server
-With the help of above extension Launch the file named as "index.html"
+Start the server:
+With the help of above extension Launch the file named as ```bash "index.html" ```
 
 
 
