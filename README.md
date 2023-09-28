@@ -29,5 +29,19 @@ Go to the project directory
 Start the server:
 With the help of above extension Launch the file named as ``` "index.html" ```
 
+## Acknowledgements
+ - [Original Spotify player](https://open.spotify.com/)
+ - [Fonts used in the project](https://fontawesome.com/)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kalloli-a6ab2a25b/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikhilKalloli)
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at nikhilkalloli0097@gmail.com
+
 
 
