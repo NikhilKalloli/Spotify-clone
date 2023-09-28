@@ -30,7 +30,7 @@ Start the server:
 With the help of above extension Launch the file named as ``` "index.html" ```
 
 ## Acknowledgements
- - [Original Spotify player](https://open.spotify.com/)
+ - [Original Spotify music player](https://open.spotify.com/)
  - [Fonts used in the project](https://fontawesome.com/)
 
 
