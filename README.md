@@ -1,6 +1,13 @@
 # Spotify-clone
 A Clone project to get experienced in using Vanilla CSS. I've tried to make it similar to original Spotify website.
 
+## Features
+
+- Fully responsive layout
+- Fullscreen mode
+- No frameworks used
+- Optimal usage of flexbox
+
 ## Screenshots
   First View:
 ![First View](https://github.com/NikhilKalloli/Spotify-clone/assets/123582746/bb9603f8-f312-4ad6-9d7a-ee73befc7374) 
