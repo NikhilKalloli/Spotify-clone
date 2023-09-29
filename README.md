@@ -3,7 +3,7 @@ A Clone project to get experienced in using Vanilla CSS. I've tried to make it s
 
 ## Features
 
-- Semi responsive layout
+- Responsive layout
 - Fullscreen mode
 - No frameworks used
 - Optimal usage of flexbox
