@@ -1,6 +1,6 @@
 # Spotify Clone 🎵
 
-A captivating clone project aimed at gaining experience in using Vanilla CSS. This Spotify clone mirrors the aesthetics of the original Spotify website, offering a responsive layout and full-screen mode. With an emphasis on clean code and optimal usage of flexbox, it provides an immersive music streaming experience.
+A captivating clone project aimed at gaining experience in using Vanilla CSS. This Spotify clone mirrors the aesthetics of the original Spotify website, offering a responsive layout and full-screen mode. With an emphasis on clean code and optimal usage of flexbox, it provides an immersive UI music streaming experience.
 
 ## Features 🚀
 
