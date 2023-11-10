@@ -17,9 +17,9 @@ A captivating clone project aimed at gaining experience in using Vanilla CSS. Th
 **Second View:**
 ![Extended view](https://github.com/NikhilKalloli/Spotify-clone/assets/123582746/bfaa2c3f-3ae3-4f81-bd04-d65e35be23b0)
 
-## Installation 🛠️
+## Installation 🛠️(Optional)
 
-The only installation required for this project is a VS Code extension to host the website locally. I recommend using "Live Server" for an optimal experience.
+The only installation required for this project is a VS Code extension to host the website locally. I recommend using "Live Server" for an optimal experience. The installation process is Optional just run it Locally following the below instructions.
 
 ## Run Locally 🏃
 
@@ -28,6 +28,10 @@ The only installation required for this project is a VS Code extension to host t
    ```bash
    git clone https://github.com/NikhilKalloli/Spotify-clone.git
    ```
+   
+2. **Open the following file**
+
+   Open ```index.html``` in your prefered Web Browser.
 
 
 ## Acknowledgements 🙌
@@ -43,6 +47,8 @@ The only installation required for this project is a VS Code extension to host t
 Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikhilKalloli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kalloli-a6ab2a25b/)
+
+
 
 
 ## Feedback
