@@ -47,7 +47,9 @@ Contributions are welcome! If you have any improvements or new features to sugge
 
 ---
 
-Enjoy playing Simon Says! If you have any questions or issues, feel free to [open an issue](https://github.com/NikhilKalloli/Spotify-clone/issues).
+Enjoy interacting with the clone! If you have any questions or issues, feel free to [open an issue](https://github.com/NikhilKalloli/Spotify-clone/issues).
+
+
 
 
 
@@ -57,7 +59,6 @@ Enjoy playing Simon Says! If you have any questions or issues, feel free to [ope
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikhilKalloli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kalloli-a6ab2a25b/)
-
 
 
 
